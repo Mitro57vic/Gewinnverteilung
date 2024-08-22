@@ -1,0 +1,7 @@
+C:\Users\filip\source\repos\Gewinnverteilung_IDPA\Gewinnverteilung_IDPA\bin\Debug\Gewinnverteilung_IDPA.exe.config
+C:\Users\filip\source\repos\Gewinnverteilung_IDPA\Gewinnverteilung_IDPA\bin\Debug\Gewinnverteilung_IDPA.exe
+C:\Users\filip\source\repos\Gewinnverteilung_IDPA\Gewinnverteilung_IDPA\bin\Debug\Gewinnverteilung_IDPA.pdb
+C:\Users\filip\source\repos\Gewinnverteilung_IDPA\Gewinnverteilung_IDPA\obj\Debug\Gewinnverteilung_IDPA.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\Gewinnverteilung_IDPA\Gewinnverteilung_IDPA\obj\Debug\Gewinnverteilung_IDPA.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\Gewinnverteilung_IDPA\Gewinnverteilung_IDPA\obj\Debug\Gewinnverteilung_IDPA.exe
+C:\Users\filip\source\repos\Gewinnverteilung_IDPA\Gewinnverteilung_IDPA\obj\Debug\Gewinnverteilung_IDPA.pdb
