@@ -8,6 +8,7 @@ namespace Gewinnverteilung_IDPA
 {
     internal class Gewinnverteilung
     {
+        // Felder für die Eingabeparameter
         private decimal jahresgewinn;
         private decimal aktienkapital;
         private decimal partizipationskapital;

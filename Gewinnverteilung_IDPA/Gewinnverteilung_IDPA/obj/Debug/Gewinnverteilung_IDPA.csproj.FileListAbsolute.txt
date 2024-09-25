@@ -5,3 +5,10 @@ C:\Users\filip\source\repos\Gewinnverteilung_IDPA\Gewinnverteilung_IDPA\obj\Debu
 C:\Users\filip\source\repos\Gewinnverteilung_IDPA\Gewinnverteilung_IDPA\obj\Debug\Gewinnverteilung_IDPA.csproj.CoreCompileInputs.cache
 C:\Users\filip\source\repos\Gewinnverteilung_IDPA\Gewinnverteilung_IDPA\obj\Debug\Gewinnverteilung_IDPA.exe
 C:\Users\filip\source\repos\Gewinnverteilung_IDPA\Gewinnverteilung_IDPA\obj\Debug\Gewinnverteilung_IDPA.pdb
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\test\Gewinnverteilung\Gewinnverteilung_IDPA\Gewinnverteilung_IDPA\bin\Debug\Gewinnverteilung_IDPA.exe.config
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\test\Gewinnverteilung\Gewinnverteilung_IDPA\Gewinnverteilung_IDPA\bin\Debug\Gewinnverteilung_IDPA.exe
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\test\Gewinnverteilung\Gewinnverteilung_IDPA\Gewinnverteilung_IDPA\bin\Debug\Gewinnverteilung_IDPA.pdb
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\test\Gewinnverteilung\Gewinnverteilung_IDPA\Gewinnverteilung_IDPA\obj\Debug\Gewinnverteilung_IDPA.csproj.AssemblyReference.cache
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\test\Gewinnverteilung\Gewinnverteilung_IDPA\Gewinnverteilung_IDPA\obj\Debug\Gewinnverteilung_IDPA.csproj.CoreCompileInputs.cache
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\test\Gewinnverteilung\Gewinnverteilung_IDPA\Gewinnverteilung_IDPA\obj\Debug\Gewinnverteilung_IDPA.exe
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\test\Gewinnverteilung\Gewinnverteilung_IDPA\Gewinnverteilung_IDPA\obj\Debug\Gewinnverteilung_IDPA.pdb

@@ -27,13 +27,14 @@ namespace Gewinnverteilung_IDPA
 
             try
             {
-              
-                Gewinnverteilung verteilung = new Gewinnverteilung(jahresgewinn, aktienkapital, partizipationskapital, gesetzlicheReserven, gewinnVortrag, gewuenschteDividende);
+                Gewinnverteilung verteilung = new Gewinnverteilung(
+                    jahresgewinn, aktienkapital, partizipationskapital, gesetzlicheReserven, gewinnVortrag, gewuenschteDividende
+                );
 
-                
+
                 verteilung.BerechneVerteilung();
 
-               
+
                 Console.WriteLine();
                 Console.WriteLine("Ergebnisse:");
                 Console.WriteLine($"Erster Beitrag zur gesetzlichen Reserve: {verteilung.ErsterBeitragReserven:C}");
